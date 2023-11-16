@@ -4,14 +4,14 @@
 <h3>Frontend developer from Poland</h3>
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/isidorenya/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
-  <a href="https://www.facebook.com/profile.php?id=100010147620087"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Facebook Badge"/> </a>
-  <a href="https://t.me/isidorenya"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/> </a>
+ <a target="_blank" href="https://www.linkedin.com/in/isidorenya/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+ <a target="_blank" href="https://www.facebook.com/profile.php?id=100010147620087"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Facebook Badge"/></a>
+ <a target="_blank" href="https://t.me/isidorenya"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 </div>
 
 ### About me
 - 🌱 I’m currently learning Frontend and Backend 🤓
-- 💬 Know about my experiences [CV] ()
+- 💬 Know about my experiences [CV](https://github.com/Sidor4ik/CV/blob/main/CV.pdf)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/isidorenya/), [email](mailto:isidorenya.lenovo@gmail.com)
 - 🌎 I speak English.
 
