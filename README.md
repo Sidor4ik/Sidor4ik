@@ -10,9 +10,10 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning Frontend and Backend.
+- 🌱 I’m currently learning Frontend and Backend 🤓
 - 💬 Know about my experiences [CV] ()
-- 📫 Reach me by [LinkedIn] (), [email](mailto: isidorenya.lenovo@gmail.com)
+- 📫 Reach me by [LinkedIn] (https://www.linkedin.com/in/isidorenya/), [email](mailto: isidorenya.lenovo@gmail.com)
+- 🌎 I speak English.
 
 <!--
 **Sidor4ik/Sidor4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
