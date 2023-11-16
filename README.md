@@ -12,7 +12,7 @@
 ### About me
 - 🌱 I’m currently learning Frontend and Backend 🤓
 - 💬 Know about my experiences [CV] ()
-- 📫 Reach me by [LinkedIn] (https://www.linkedin.com/in/isidorenya/), [email](mailto: isidorenya.lenovo@gmail.com)
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/isidorenya/), [email](mailto:isidorenya.lenovo@gmail.com)
 - 🌎 I speak English.
 
 <!--
